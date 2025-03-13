@@ -30,3 +30,4 @@ Use this data and assign it as the value of a variable at the module scope.
     { id: 8, species: "Puffer", weight: 2, price: 9.84, amount: 52 }
 ]
 ```
+                                 

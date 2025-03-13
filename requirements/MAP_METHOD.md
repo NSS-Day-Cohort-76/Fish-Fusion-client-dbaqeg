@@ -8,7 +8,7 @@ Array methods are complex abstractions for beginners because the syntax is not a
 
 ## Converting Objects to HTML
 
-Currently, you have `for..of` loop that looks like the code provided below. It's purpose is to covert the raw data into corresponding HTML strings that will eventually end up in a web browser for people to view.
+Currently, you have `for..of` loop to covert the raw data into corresponding HTML strings that will eventually end up in a web browser for people that looks like the code provided below. It's purpose is to e to view.
 
 ```js
 for (const item of todaysIngredients) {

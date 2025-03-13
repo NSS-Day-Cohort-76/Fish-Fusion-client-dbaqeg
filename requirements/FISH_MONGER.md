@@ -24,11 +24,14 @@ The exported function must be named `mongerInventory`.
 2. The fishmonger does not buy any fish from the boat that is priced higher than $7.50 per fish.
 
 Those are the basic requirements of the fish monger. Once you have an array of the fish objects that meet those requirements, you then need to determine which of **those** fish meet the requirements of a chef.
-
+     
 ## Chef Purchasing Constraints
 
-The fishmonger lets the chef of a restuarant specify what their maximum budget is per fish. For example, a chef can tell the monger that she can only spend $5.00 per fish. The function should then return only fish that cost $5.00 or less. This could be any amount and will be information that will be provided to the monger inventory function.
+The fishmonger lets the chef of a restuarant specify what their maximum budget is per fish. For example, a chef can tell the monger that she can o   The                         urn only fish that cost $5.00 or less. This could be any amount and will be information that will be provided to the monger inventory function.
 
 From your array of purchased fish, you must filter that down to the fish that meet the price constraint of the restaurant chef.
 
 Once you have that final array of fish, return that array.
+
+
+
